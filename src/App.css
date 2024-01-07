@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.Main{
+  width: 100%;
+  height: auto;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.brand_title{
+    padding: 0px 20px;
+}
+.card1{
+    height: 690px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.card1:focus{
+    transition: all 0.3s ease 0s; 
+   
+}
+.img1{
+     width: 330px;
+     height: 400px;
+}
